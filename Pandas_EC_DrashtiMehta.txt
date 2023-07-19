@@ -1,0 +1,18 @@
+- The submitted project contains two datasets: 
+1. Covid 19 timeseries of cases as per the dates and each state
+2. Employment in each sector in each state
+ 
+- The main goal of the project is to see the different employees (employment) in all the sectors as the states are affected by covid
+
+- We take February to October into consideration here as initial cases appeared in Feb and then started spreading in March. In mid July the lockdown was lifted 
+which caused an increase in the cases which is why the later months are taken into consideration to see the decrease in cases compared to July later on.
+
+- We find that Texas has the highest monthly average increase of cases followed by California (which has maximum number of increases 
+when it comes to individual months).
+
+- Several industries are taken into consideration such as manufacturing, transportation, finance and insurance, health care and social assistance 
+and art, entertainment and recreation. Out of these industries, we find that the art industry shows least employment and the health care industry has 
+peaked in providing employment with maximum number of employees (relatively). The manufacturing industry follows it whereas the transportation 
+and finance industry as more or less similar in terms of number of employees.
+
+- Similar trend is seen in both the states regarding the employment in all the industries.
